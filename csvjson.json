@@ -1,110 +1,98 @@
 [
   {
-    "Regiones de Chile por población (2024)": "Puesto",
-    "": "Region",
-    "__1": "Poblacion",
-    "__2": "Pais comparable"
+    "puesto": 1,
+    "region": "Metropolitana",
+    "poblacion": "7 400 741",
+    "pais_comparable": "KirguistánKirguistán"
   },
   {
-    "Regiones de Chile por población (2024)": 1,
-    "": "Metropolitana",
-    "__1": "7 400 741",
-    "__2": "KirguistánKirguistán"
+    "puesto": 2,
+    "region": "Valparaíso",
+    "poblacion": "1 896 053",
+    "pais_comparable": "Guinea Ecuatorial Guinea Ecuatorial"
   },
   {
-    "Regiones de Chile por población (2024)": 2,
-    "": "Valparaíso",
-    "__1": "1 896 053",
-    "__2": "Guinea Ecuatorial Guinea Ecuatorial"
+    "puesto": 3,
+    "region": "Biobío",
+    "poblacion": "1 613 059",
+    "pais_comparable": "Baréin Baréin"
   },
   {
-    "Regiones de Chile por población (2024)": 3,
-    "": "Biobío",
-    "__1": "1 613 059",
-    "__2": "Baréin Baréin"
+    "puesto": 4,
+    "region": "Maule",
+    "poblacion": "1 123 008",
+    "pais_comparable": "Yibuti Yibuti"
   },
   {
-    "Regiones de Chile por población (2024)": 4,
-    "": "Maule",
-    "__1": "1 123 008",
-    "__2": "Yibuti Yibuti"
+    "puesto": 5,
+    "region": "Araucanía",
+    "poblacion": "1 010 423",
+    "pais_comparable": "Chipre Chipre"
   },
   {
-    "Regiones de Chile por población (2024)": 5,
-    "": "Araucanía",
-    "__1": "1 010 423",
-    "__2": "Chipre Chipre"
+    "puesto": 6,
+    "region": "O'Higgins",
+    "poblacion": "987 228",
+    "pais_comparable": "Chipre Chipre"
   },
   {
-    "Regiones de Chile por población (2024)": 6,
-    "": "O'Higgins",
-    "__1": "987 228",
-    "__2": "Chipre Chipre"
+    "puesto": 7,
+    "region": "Los Lagos",
+    "poblacion": "890 284",
+    "pais_comparable": "Fiyi Fiyi"
   },
   {
-    "Regiones de Chile por población (2024)": 7,
-    "": "Los Lagos",
-    "__1": "890 284",
-    "__2": "Fiyi Fiyi"
+    "puesto": 8,
+    "region": "Coquimbo",
+    "poblacion": "832 864",
+    "pais_comparable": "Guyana Guyana"
   },
   {
-    "Regiones de Chile por población (2024)": 8,
-    "": "Coquimbo",
-    "__1": "832 864",
-    "__2": "Guyana Guyana"
+    "puesto": 9,
+    "region": "Antofagasta",
+    "poblacion": "635 416",
+    "pais_comparable": "Surinam Surinam"
   },
   {
-    "Regiones de Chile por población (2024)": 9,
-    "": "Antofagasta",
-    "__1": "635 416",
-    "__2": "Surinam Surinam"
+    "puesto": 10,
+    "region": "Ñuble",
+    "poblacion": "512 289",
+    "pais_comparable": "Maldivas Maldivas"
   },
   {
-    "Regiones de Chile por población (2024)": 10,
-    "": "Ñuble",
-    "__1": "512 289",
-    "__2": "Maldivas Maldivas"
+    "puesto": 11,
+    "region": "Los Ríos",
+    "poblacion": "398 230",
+    "pais_comparable": "Islandia Islandia"
   },
   {
-    "Regiones de Chile por población (2024)": 11,
-    "": "Los Ríos",
-    "__1": "398 230",
-    "__2": "Islandia Islandia"
+    "puesto": 12,
+    "region": "Tarapacá",
+    "poblacion": "369 806",
+    "pais_comparable": "Guadalupe Guadalupe"
   },
   {
-    "Regiones de Chile por población (2024)": 12,
-    "": "Tarapacá",
-    "__1": "369 806",
-    "__2": "Guadalupe Guadalupe"
+    "puesto": 13,
+    "region": "Atacama",
+    "poblacion": "299 180",
+    "pais_comparable": "Nueva Caledonia Nueva Caledonia"
   },
   {
-    "Regiones de Chile por población (2024)": 13,
-    "": "Atacama",
-    "__1": "299 180",
-    "__2": "Nueva Caledonia Nueva Caledonia"
+    "puesto": 14,
+    "region": "Arica y Parinacota",
+    "poblacion": "244 569",
+    "pais_comparable": "Santo Tomé y Príncipe"
   },
   {
-    "Regiones de Chile por población (2024)": 14,
-    "": "Arica y Parinacota",
-    "__1": "244 569",
-    "__2": "Santo Tomé y Príncipe"
+    "puesto": 15,
+    "region": "Magallanes y la Antártica Chilena",
+    "poblacion": "166 537",
+    "pais_comparable": "Curazao Curazao"
   },
   {
-    "Regiones de Chile por población (2024)": 15,
-    "": "Magallanes y la Antártica Chilena",
-    "__1": "166 537",
-    "__2": "Curazao Curazao"
-  },
-  {
-    "Regiones de Chile por población (2024)": 16,
-    "": "Aysén",
-    "__1": "100 745",
-    "__2": "Tonga"
-  },
-  {
-    "Regiones de Chile por población (2024)": "Chile",
-    "": "",
-    "__1": "18 480 432",
-    "__2": "Países Bajos Países Bajos"
+    "puesto": 16,
+    "region": "Aysén",
+    "poblacion": "100 745",
+    "pais_comparable": "Tonga"
   }
 ]
