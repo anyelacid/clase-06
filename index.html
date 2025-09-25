@@ -34,7 +34,7 @@
                     donde.innerHTML += `<div><p>El grupo ${x.grupo}, con ${x.integrantes.length} integrantes, hizo este <a href="${x.miro}" target="_blank">tablero en miro</a>. También presentó este <a href="${x.pdf}" target="_blank">trabajo escrito</a>, con su <a href="${x.algor}" target="_blank">resumen en Algor</a>.</p><p><small>Grupo compuesto por ${integrantes(x.integrantes)}<small></p></div>`;
                 });
             }
-            datos("https://raw.githubusercontent.com/profesorfaco/datos/refs/heads/main/datos.json").catch((error) => console.error(error));
+            datos("https://raw.githubusercontent.com/anyelacid/segundo-ejecicio/refs/heads/main/datos.json").catch((error) => console.error(error));
 
             function integrantes(dato) {
                 let x = "";
