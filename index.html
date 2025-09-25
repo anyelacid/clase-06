@@ -36,24 +36,7 @@
             }
             datos("https://raw.githubusercontent.com/anyelacid/segundo-ejecicio/refs/heads/main/datos.json").catch((error) => console.error(error));
 
-            function integrantes(dato) {
-                let x = "";
-                dato.forEach((d, i) => {
-                    if (i == dato.length - 1) {
-                        if(d.github.length > 1){
-                            x += `<img src="${d.avatar_url}"> <a href="${d.github}" target="_blank"> ${d.nombre}</a>.`;
-                        } else {
-                            x += `<svg><use href="#circulo"></use></svg> ${d.nombre}.`;
-                        }
-                    } else {
-                        if(d.github.length > 1){
-                            x += `<img src="${d.avatar_url}"> <a href="${d.github}" target="_blank">${d.nombre}</a> + `;
-                        } else {
-                            x += `<svg><use href="#circulo"></use></svg> ${d.nombre} + `;
-                        }                    }
-                });
-                return x;
-            }
+            
         </script>
     </body>
 </html>
