@@ -2,7 +2,7 @@
 <html lang="es">
     <head>
         <meta charset="utf-8" />
-        <title>Trabajando con datos</title>
+        <title>Trabajando solit@ con datos </title>
         <meta name="description" content="Partiendo con el troncal" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <style>
@@ -17,26 +17,18 @@
         </style>
     </head>
     <body>
-        <svg xmlns="http://www.w3.org/2000/svg" style="display:none;">
-            <symbol id="circulo" viewBox="0 0 16 16"><circle cx="8" cy="8" r="8" fill="silver"/></symbol>
-        </svg>
         <main>
             <h1>Hola mundo!</h1>
-            <div id="aqui"></div>
         </main>
         <script>
-            const donde = document.querySelector("#aqui");
             async function datos(raw) {
                 let consulta = await fetch(raw);
                 let data = await consulta.json();
                 console.log(data);
-                data.forEach((x) => {
-                    donde.innerHTML += `<div><p>El grupo ${x.grupo}, con ${x.integrantes.length} integrantes, hizo este <a href="${x.miro}" target="_blank">tablero en miro</a>. También presentó este <a href="${x.pdf}" target="_blank">trabajo escrito</a>, con su <a href="${x.algor}" target="_blank">resumen en Algor</a>.</p><p><small>Grupo compuesto por ${integrantes(x.integrantes)}<small></p></div>`;
-                });
+                //Asómese a la Consola de JavaScript de su navegador
             }
             datos("https://raw.githubusercontent.com/anyelacid/segundo-ejecicio/refs/heads/main/datos.json").catch((error) => console.error(error));
 
-            
         </script>
     </body>
 </html>
