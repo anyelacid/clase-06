@@ -2,26 +2,31 @@
   {
     "chileno": "Alexis Sánchez",
     "goles": 51,
-    "partidos": 166
+    "partidos": 166,
+    "foto":"https://anyelacid.github.io/clase-06/sanches.jpg"
   },
   {
     "chileno": "Eduardo Vargas",
     "goles": 45,
-    "partidos": 119
+    "partidos": 119,
+    "foto":"https://anyelacid.github.io/clase-06/vargas.jpg"
   },
   {
     "chileno": "Marcelo Salas",
     "goles": 37,
-    "partidos": 70
+    "partidos": 70,
+    "foto":"https://anyelacid.github.io/clase-06/salas.jpg"
   },
   {
     "chileno": "Iván Zamorano",
     "goles": 34,
-    "partidos": 69
+    "partidos": 69,
+    "foto":"https://anyelacid.github.io/clase-06/zamorano.jpg"
   },
   {
     "chileno": "Arturo Vidal",
     "goles": 34,
-    "partidos": 144
+    "partidos": 144,
+    "foto":"https://anyelacid.github.io/clase-06/vidal.jpg"
   }
 ]
